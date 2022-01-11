@@ -6,7 +6,7 @@ I'm Efazul Fayad,a Frontend Developer(specializing in React Applications). I am 
      🌱 I’m currently learning backend development
 💬 Ask me about anything 
 📫 How to reach me: efazul.fayad1717@gmail.com
-⚡ Fun fact: I love playing games in my free time 
+⚡ Fun fact: I love to learn about new things 
 
 
 
