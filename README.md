@@ -2,7 +2,7 @@ Hi there! 👋
  
 I'm Efazul Fayad,a Frontend Developer(specializing in React Applications). I am also pursuing my Bachelor in Computer Science & Engineering.
  
-🎫 Technologies: React, NextJS, NodeJS, ExpressJS,JavaScript, TypeScript, PostgreSQL, Tailwind CSS, Material-UI
+🎫 Technologies: React, NextJS, NodeJS, ExpressJS, JavaScript, TypeScript, PostgreSQL, Tailwind CSS, Material-UI
 
 🌱 I’m currently learning Data Structures & Algorithm.
 
