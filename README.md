@@ -1,6 +1,6 @@
 Hi there! 👋
  
-I'm Efazul Fayad, a FullStack Developer(specializing in React Applications). I am also pursuing my Bachelor in Computer Science & Engineering.
+I'm Kazi Efazul Karim, a FullStack Developer(specializing in React Applications). I am also pursuing my Bachelor in Computer Science & Engineering.
  
 🎫 Technologies: React, NextJS, NodeJS, ExpressJS, JavaScript, TypeScript, PostgreSQL, MongoDB Tailwind CSS, Material-UI
 
