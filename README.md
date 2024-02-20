@@ -33,13 +33,9 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
   ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
   
 - 
-  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-
-- 
-  ![TDD](https://img.shields.io/badge/-TDD-000?&logo=TDD)
-  ![Unit Testing](https://img.shields.io/badge/-Unit_Testing-000?&logo=Unit-Testing)
+  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
 
 - 
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
