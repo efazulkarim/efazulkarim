@@ -29,7 +29,7 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
   ![Chakra-UI](https://img.shields.io/badge/-Chakra--UI-000?&logo=Chakra-UI)
 
 - 
-  ![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
+   ![REST-API](https://img.shields.io/badge/-REST-000?&logo=REST)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
   
 - 
