@@ -53,7 +53,7 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
   ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
   ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
 
-## I’m currently learning:
+## I’m currently mastering:
 - Data Structures & Algorithms
 
 ## Ask me about:
