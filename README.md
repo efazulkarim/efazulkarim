@@ -1,10 +1,10 @@
-# Hi there 👋
+# Hi there, I'm Kazi Efazul Karim 👋
 
-I'm Kazi Efazul Karim, a FullStack Developer specializing in React Applications. I'm also pursuing my Bachelor's in Computer Science & Engineering.
+Full-stack Developer specializing in React applications. 
 
-## Technologies:
+## Languages & Tools:
+- JavaScript, TypeScript 
 - React, Next.js, NodeJS, Express.js
-- JavaScript, TypeScript
 - PostgreSQL, MongoDB
 - Tailwind CSS, Material-UI
 
@@ -16,22 +16,25 @@ I'm Kazi Efazul Karim, a FullStack Developer specializing in React Applications.
 
 ## How to reach me:
 - Email: [efazul.fayad1717@gmail.com](mailto:efazul.fayad1717@gmail.com)
-- LinkedIn: [Kazi Efazul Karim](https://www.linkedin.com/in/kazi-efazul-karim-046964202/)
 
-## Fun fact:
-- I am a person who enjoys learning new things.
+## Connect with me:
+[![Instagram: efazul_fayad](https://img.shields.io/badge/-efazul_fayad-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/efazul_fayad/)](https://www.instagram.com/efazul_fayad/)
+[![Twitter: EfazulFayad17](https://img.shields.io/twitter/follow/EfazulFayad17?style=social)](https://twitter.com/EfazulFayad17)
+[![LinkedIn: Kazi Efazul Karim](https://img.shields.io/badge/-Kazi%20Efazul%20Karim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazi-efazul-karim-046964202/)](https://www.linkedin.com/in/kazi-efazul-karim-046964202/)
 
-Feel free to connect with me here on GitHub or through any of the channels above!
+
+## 📌 Pinned Section
+
+- [Portfolio](https://www.efazulkarim.live/) - Check out my personal website
+- [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project built for the university students.
 
 ---
 
-![Kazi Efazul Karim's GitHub stats](https://github-readme-stats.vercel.app/api?username=dark-archer1717&show_icons=true&theme=radical)
+## GitHub Contribution Graph
+![Kazi Efazul Karim's GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=dark-archer1717&theme=xcode)
 
-## 📌 Pinned Repositories
-
-- [NewsToday](https://github.com/dark-archer1717/NewsToday) - React News App using API
-- [next-chat-app](https://github.com/dark-archer1717/next-chat-app) - Next.js Chat App built using chat engine
-- [portfolio-nextjs](https://github.com/dark-archer1717/portfolio-nextjs) - My Personal Portfolio Website
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-archer1717&layout=compact)
 
 ---
 
