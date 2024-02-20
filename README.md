@@ -29,8 +29,9 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
   ![Chakra-UI](https://img.shields.io/badge/-Chakra--UI-000?&logo=Chakra-UI)
 
 - 
-   ![REST-API](https://img.shields.io/badge/-REST-000?&logo=REST-API)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+  ![REST-API](https://img.shields.io/badge/-REST-000?&logo=REST)
+ 
 
 - 
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
@@ -40,7 +41,6 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
 - 
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
   ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON-Web-Tokens)
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
