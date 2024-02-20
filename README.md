@@ -1,12 +1,57 @@
 # Hi there, I'm Kazi Efazul Karim 👋
 
-Full-stack Developer specializing in React applications. 
+I'm a Full-stack Developer specializing in React applications. I have a strong foundation in both front-end and back-end development, with a focus on creating seamless user experiences.
 
-## Languages & Tools:
-- JavaScript, TypeScript 
-- React, Next.js, NodeJS, Express.js
-- PostgreSQL, MongoDB
-- Tailwind CSS, Material-UI
+## 🛠️ Languages & Tools:
+- Programming Languages: 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+  ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
+  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+
+- Frameworks/Libraries: 
+  ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+  ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+  ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
+  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+
+- Front-End Technologies: 
+  ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+  ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+
+- UI Frameworks: 
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
+  ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+  ![Chakra-UI](https://img.shields.io/badge/-Chakra--UI-000?&logo=Chakra-UI)
+
+- APIs: 
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+  ![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
+
+- DevOps & Version Control: 
+  ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
+  ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+  ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+- Testing: 
+  ![TDD](https://img.shields.io/badge/-TDD-000?&logo=TDD)
+  ![Unit Testing](https://img.shields.io/badge/-Unit_Testing-000?&logo=Unit-Testing)
+
+- Databases: 
+  ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+
+- Additional Technologies: 
+  ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON-Web-Tokens)
+  ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
+  ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
+  ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
 
 ## I’m currently learning:
 - Data Structures & Algorithms
@@ -14,27 +59,22 @@ Full-stack Developer specializing in React applications.
 ## Ask me about:
 - Anything tech-related, my projects, or just say hi!
 
-## How to reach me:
-- Email: [efazul.fayad1717@gmail.com](mailto:efazul.fayad1717@gmail.com)
-
 ## Connect with me:
 [![Instagram: efazul_fayad](https://img.shields.io/badge/-efazul_fayad-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/efazul_fayad/)](https://www.instagram.com/efazul_fayad/)
 [![Twitter: EfazulFayad17](https://img.shields.io/twitter/follow/EfazulFayad17?style=social)](https://twitter.com/EfazulFayad17)
 [![LinkedIn: Kazi Efazul Karim](https://img.shields.io/badge/-Kazi%20Efazul%20Karim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kazi-efazul-karim-046964202/)](https://www.linkedin.com/in/kazi-efazul-karim-046964202/)
 
-
 ## 📌 Pinned Section
 
 - [Portfolio](https://www.efazulkarim.live/) - Check out my personal website
-- [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project built for the university students.
+- [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project was built for university students.
 
 ---
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-archer1717&layout=compact)
 
 ## GitHub Contribution Graph
 ![Kazi Efazul Karim's GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=dark-archer1717&theme=xcode)
-
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-archer1717&layout=compact)
 
 ---
 
