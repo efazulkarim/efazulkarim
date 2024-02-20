@@ -29,9 +29,9 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
   ![Chakra-UI](https://img.shields.io/badge/-Chakra--UI-000?&logo=Chakra-UI)
 
 - 
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
   ![REST](https://img.shields.io/badge/-REST-000?&logo=REST)
-
+  ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
+  
 - 
   ![Webpack](https://img.shields.io/badge/-Webpack-000?&logo=Webpack)
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
@@ -44,14 +44,12 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
 - 
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
-  ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 - 
   ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON-Web-Tokens)
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
-  ![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=Firebase)
-  ![Gulp](https://img.shields.io/badge/-Gulp-000?&logo=Gulp)
+ 
 
 ## I’m currently mastering:
 - Data Structures & Algorithms
