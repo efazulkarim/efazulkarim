@@ -59,7 +59,7 @@ I'm a Full-stack Developer with 4+ years of experience in the development field.
 ## 📌 Pinned Section
 
 - [Portfolio](https://www.efazulkarim.live/) - Check out my personal website
-- [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project was built for university students.
+- [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project which was built for university students.
 
 ---
 ## Most Used Languages
