@@ -61,9 +61,6 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 - [Portfolio](https://www.efazulkarim.live/) - Check out my personal website
 - [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project which was built for university students.
 
----
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dark-archer1717&layout=compact)
 
 ## GitHub Contribution Graph
 ![Kazi Efazul Karim's GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=dark-archer1717&theme=xcode)
