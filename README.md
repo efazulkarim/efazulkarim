@@ -46,7 +46,7 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 
 
 ## I’m currently mastering:
-- Data Structures & Algorithms
+- System Design and Architecture 
 
 ## Ask me about:
 - Anything tech-related, my projects, or just say hi!
