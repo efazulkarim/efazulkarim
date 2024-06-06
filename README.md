@@ -49,7 +49,7 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 - System Design and Architecture 
 
 ## Ask me about:
-- Anything tech-related, my projects, or just say hi!
+- Anything tech-related, my projects, or say hi!
 
 ## Connect with me:
 [![Instagram: efazul_fayad](https://img.shields.io/badge/-efazul_fayad-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/efazul_fayad/)](https://www.instagram.com/efazul_fayad/)
@@ -59,7 +59,7 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 ## 📌 Pinned Section
 
 - [Portfolio](https://www.efazulkarim.live/) - Check out my personal website
-- [Faculty Evaluation System](https://faculty.apppulse.dev/) - My latest project which was built for university students.
+- [Faculty Evaluation System](https://facultyevaluation.live) - My latest project which was built for university students.
 
 
 ## GitHub Contribution Graph
