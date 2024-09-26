@@ -1,6 +1,6 @@
 # Hi there, I'm Kazi Efazul Karim 👋
 
-I'm a Full-Stack Developer with 4+ years of experience in the development field. I have a strong foundation in both front-end and back-end development, with a focus on creating seamless and blazing fast user experiences.
+I'm a Full-Stack Developer with 4+ years of experience in the development field. I have a strong foundation in both front-end and back-end development, with a focus on creating seamless and blazing-fast user experiences.
 
 ## 🛠️ Languages & Tools:
 - 
