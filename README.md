@@ -59,7 +59,7 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 ## 📌 Pinned Section
 
 - [Portfolio](https://www.efazulkarim.me/) - Check out my personal website
-- [Faculty Evaluation System](https://facultyevaluation.live) - My latest project was built for university students.
+- [Email Validation System](https://leadsverifier.com) - Bulk email validation at large scale.
 
 
 ## GitHub Contribution Graph
