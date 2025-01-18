@@ -8,6 +8,7 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
   ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
   ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
+  ![Python]
 
 - 
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
