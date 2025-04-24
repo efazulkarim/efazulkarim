@@ -27,7 +27,6 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
   ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000?&logo=Framer)
   ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
   ![Chakra-UI](https://img.shields.io/badge/-Chakra--UI-000?&logo=Chakra-UI)
 
 - 
