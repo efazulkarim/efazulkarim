@@ -1,6 +1,6 @@
 # Hi there, I'm Kazi Efazul Karim 👋
 
-I'm a Full-Stack Developer with 4+ years of experience in the development field. I have a strong foundation in both front-end and back-end development, with a focus on creating seamless and blazing-fast user experiences.
+I'm a Full-Stack Developer with 4+ years of experience in the development field. I have a strong foundation in both front-end and back-end development, with a focus on creating seamless and blazing-fast user experiences. I also specialize in mobile development, building cross-platform apps with React Native.
 
 ## 🛠️ Languages & Tools:
 - 
@@ -12,19 +12,20 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 
 - 
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
+  ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
   ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+  ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
   ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-  ![Fastify](https://img.shields.io/badge/-Fastify-000?&logo=Fastify)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+  ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+  ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-000?&logo=Django)
 
-- 
-  ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-  ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-  ![SASS](https://img.shields.io/badge/-SASS-000?&logo=SASS)
+
 
 - 
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=Tailwind-CSS)
+  ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-000?&logo=Framer)
   ![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
   ![Chakra-UI](https://img.shields.io/badge/-Chakra--UI-000?&logo=Chakra-UI)
@@ -32,7 +33,6 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 - 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-000?&logo=GraphQL)
   ![REST-API](https://img.shields.io/badge/-REST-000?&logo=REST)
- 
 
 - 
   ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
@@ -45,12 +45,8 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
   ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON-Web-Tokens)
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
-
 ## I’m currently mastering:
 - System Design and Architecture 
-
-## Ask me about:
-- Anything tech-related, like my projects or saying hi!
 
 ## Connect with me:
 [![Instagram: efazul_fayad](https://img.shields.io/badge/-efazul_fayad-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/efazul_fayad/)](https://www.instagram.com/efazul_fayad/)
@@ -61,11 +57,7 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 
 - [Portfolio](https://www.efazulkarim.me/) - Check out my personal website
 - [Email Validation System](https://leadsverifier.com) - Bulk email validation at large scale.
+- [Bangladesh Naval Academy](https://naval-academy.vercel.app/) - Naval Academy Website
 
-
-## GitHub Contribution Graph
-![Kazi Efazul Karim's GitHub contribution graph](https://activity-graph.herokuapp.com/graph?username=dark-archer1717&theme=xcode)
-
----
 
 Let's collaborate and make something awesome!
