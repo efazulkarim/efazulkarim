@@ -15,7 +15,6 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
   ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
   ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
   ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-  ![Redux](https://img.shields.io/badge/-Redux-000?&logo=Redux)
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
   ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
