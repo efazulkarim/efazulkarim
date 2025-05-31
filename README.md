@@ -6,9 +6,9 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 - 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
-  ![Java](https://img.shields.io/badge/-Java-000?&logo=Java)
   ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+  ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
+ 
 
 - 
   ![React](https://img.shields.io/badge/-React-000?&logo=React)
@@ -19,7 +19,8 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
   ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
   ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
   ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-  ![Django REST Framework](https://img.shields.io/badge/-Django_REST_Framework-000?&logo=Django)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+  
 
 
 
