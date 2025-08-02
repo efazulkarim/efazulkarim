@@ -41,7 +41,6 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 - 
   ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
   ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-  ![JWT](https://img.shields.io/badge/-JWT-000?&logo=JSON-Web-Tokens)
   ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS)
 
 ## I’m currently mastering:
