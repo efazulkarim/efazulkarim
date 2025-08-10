@@ -77,11 +77,4 @@
 [![LinkedIn: Kazi Efazul Karim](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-efazul-karim-046964202/)
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=efazul&theme=dark&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efazul&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
 💡 *"Great software isn’t just written — it’s crafted with care."*
