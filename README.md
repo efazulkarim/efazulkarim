@@ -4,21 +4,23 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 
 ## 🛠️ Languages & Tools:
 - 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-  ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-  ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
- 
+ ### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
+![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 
-- 
-  ![React](https://img.shields.io/badge/-React-000?&logo=React)
-  ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
-  ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-  ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-  ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-  ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+### Frontend & Backend Frameworks
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![FastAPI](https://img.shields.io/badge/-FastAPI-000?&logo=FastAPI)
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET_Core-000?&logo=dotnet)
   
 
 
