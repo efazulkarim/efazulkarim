@@ -4,14 +4,12 @@ I'm a Full-Stack Developer with 4+ years of experience in the development field.
 
 ## 🛠️ Languages & Tools:
 - 
- ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=Cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-000?&logo=c-sharp)
 
-### Frontend & Backend Frameworks
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![React Native](https://img.shields.io/badge/-React_Native-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
