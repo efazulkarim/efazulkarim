@@ -65,7 +65,7 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| **Portfolio** | My personal portfolio showcasing projects & skills | [🔗 View](https://www.efazulkarim.me/) |
+| **Portfolio** | My personal portfolio showcasing projects & skills | [🔗 View](https://www.efazulkarim.netlify.app/) |
 | **Email Validation System** | Bulk email verification at scale | [🔗 View](https://leadsverifier.com) |
 | **Bangladesh Naval Academy** | Official Naval Academy website | [🔗 View](https://naval-academy.vercel.app/) |
 
