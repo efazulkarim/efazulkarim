@@ -3,7 +3,7 @@
 <h3 align="center">Full-Stack Developer | Mobile App Specialist | System Design Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.efazulkarim.me/">🌐 Portfolio</a> •
+  <a href="https://efazulkarim.netlify.app">🌐 Portfolio</a> •
   <a href="https://www.linkedin.com/in/kazi-efazul-karim-046964202/">💼 LinkedIn</a> •
   <a href="https://twitter.com/EfazulFayad17">🐦 Twitter</a>
 </p>
