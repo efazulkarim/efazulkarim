@@ -11,7 +11,7 @@
 ---
 
 ## 💡 About Me
-- 🛠 4+ years of **Full-Stack Development** experience
+- 🛠 5+ years of **Full-Stack Development** experience
 - 📱 Specialized in **Cross-Platform Mobile Apps** (React Native)
 - ⚡ Obsessed with **performance, scalability, and clean code**
 - 🌱 Currently mastering **System Design & Architecture**
