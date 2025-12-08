@@ -68,6 +68,3 @@
 [![Instagram: efazul_fayad](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/efazul_fayad/)
 [![Twitter: EfazulFayad17](https://img.shields.io/twitter/follow/EfazulFayad17?style=social)](https://twitter.com/EfazulFayad17)
 [![LinkedIn: Kazi Efazul Karim](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-efazul-karim-046964202/)
-
----
-💡 *"Great software isn’t just written — it’s crafted with care."*
