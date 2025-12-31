@@ -10,7 +10,6 @@
 - 🌱 Currently mastering **System Design & Architecture**
 - 🎯 Goal: Build impactful, scalable, and user-first products
 
-
 ---
 
 ## 🛠 Tech Stack
