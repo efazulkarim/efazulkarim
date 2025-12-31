@@ -52,7 +52,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-000?logo=amazon-aws)
 
-
 ---
 
 ## 📌 Featured Projects
