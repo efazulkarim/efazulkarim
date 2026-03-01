@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center"> Kazi Efazul Karim</h1>
-<h3 align="center">Full-Stack Product Developer | Mobile App Specialist | System Design Enthusiast</h3>
+<h3 align="center">Full-Stack Product Developer | Software Engineer| Mobile App Specialist </h3>
 
 
 ## 💡 About Me
