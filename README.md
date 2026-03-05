@@ -2,12 +2,6 @@
 <h1 align="center"> Kazi Efazul Karim</h1>
 <h3 align="center">Full-Stack Product Developer | Lead Software Engineer | Mobile App Specialist </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kazi-efazul-karim/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://efazulkarim.me/"><img src="https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=react&logoColor=white" /></a>
-  <a href="mailto:efazul.fayad1717@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-</p>
-
 
 ## 💡 About Me
 - 🛠 5+ years of **Full-Stack Development** experience
