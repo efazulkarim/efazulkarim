@@ -56,11 +56,12 @@
 
 ## 📌 Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **Portfolio** | My personal portfolio showcasing projects & skills | [🔗 View](https://efazulkarim.netlify.app/) |
-| **Email Validation System** | Bulk email verification at scale | [🔗 View](https://leadsverifier.com) |
-| **Bangladesh Naval Academy** | Official Naval Academy website | [🔗 View](https://naval-academy.vercel.app/) |
+| Project | Key Technologies | Impact / Role |
+| :--- | :--- | :--- |
+| **[WordRizz](https://wordrizz.netlify.app)** | React Native, React, Tailwind-CSS, FastAPI | Developing an end-to-end vocabulary learning app with a focus on UX and retention. |
+| **[LeadsVerifier](https://leadsverifier.com)** | Python, React, FastAPI | Built a high-concurrency bulk email validation system capable of processing thousands of requests. |
+| **[BitSic Agency](https://bitsic.online)** | Business Logic, Full-Stack | Software agency providing custom-built solutions for global clients. |
+| **[Naval Academy](https://naval-academy.vercel.app/)** | Next.js, Tailwind | Architected the official platform for the Bangladesh Naval Academy for high traffic and reliability. |
 
 ---
 
