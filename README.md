@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center"> Kazi Efazul Karim</h1>
-<h3 align="center">Full-Stack Product Developer | Software Engineer| Mobile App Specialist </h3>
+<h3 align="center">Full-Stack Product Developer |Lead Software Engineer| Mobile App Specialist </h3>
 
 
 ## 💡 About Me
@@ -60,8 +60,8 @@
 | :--- | :--- | :--- |
 | **[WordRizz](https://wordrizz.netlify.app)** | React Native, React, Tailwind-CSS, FastAPI | Developing an end-to-end vocabulary learning app with a focus on UX and retention. |
 | **[LeadsVerifier](https://leadsverifier.com)** | Python, React, FastAPI | Built a high-concurrency bulk email validation system capable of processing thousands of requests. |
-| **[BitSic Agency](https://bitsic.online)** | Business Logic, Full-Stack | Software agency providing custom-built solutions for global clients. |
-| **[Naval Academy](https://naval-academy.vercel.app/)** | Next.js, Tailwind | Architected the official platform for the Bangladesh Naval Academy for high traffic and reliability. |
+| **[BitSic Agency](https://bitsic.online)** | Next.js, Framer Motion, Three.js | Software agency providing custom-built solutions for global clients. |
+| **[Naval Academy](https://naval-academy.vercel.app/)** | React, Tailwind-CSS, React/Tanstack Query | Architected the official platform for the Bangladesh Naval Academy for high traffic and reliability. |
 
 ---
 
