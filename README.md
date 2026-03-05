@@ -7,8 +7,13 @@
 - 🛠 5+ years of **Full-Stack Development** experience
 - 📱 Specialized in **Cross-Platform Mobile Apps** (React Native)
 - ⚡ Obsessed with **performance, scalability, and clean code**
-- 🌱 Currently mastering **System Design & Architecture**
 - 🎯 Goal: Build impactful, scalable, and user-first products.
+
+## 📊 Impact Metrics
+- [cite_start]**5,000+** Active Users Managed.
+- [cite_start]**$15K+** Subscription Revenue Processed.
+- [cite_start]**70%** Reduction in manual research time via AI[cite: 53].
+- [cite_start]**30%** Improvement in page load efficiency.
 
 ---
 
