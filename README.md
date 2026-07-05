@@ -4,10 +4,12 @@
 
 
 ## 💡 About Me
-- 🛠 6+ years of **Full-Stack Development** experience
-- 📱 Specialized in **Cross-Platform Mobile Apps** (React Native)
-- ⚡ Obsessed with **performance, scalability, and clean code**
-- 🎯 Goal: Build impactful, scalable, and user-first products.
+
+- 🛠 Senior Full Stack Engineer with **6+ years** of experience building SaaS and enterprise applications.
+- 🤖 AI-native developer using **Claude Code** and modern coding agents to accelerate development while maintaining production quality.
+- 🏗 Passionate about **Distributed Systems, Backend Architecture, Message Queues, and Microservices**.
+- 📱 Build products across **Web, Mobile, and AI** using React, Next.js, Django, FastAPI, Node.js, and Go.
+- 🚀 Currently building AI-powered products, developer tools, and open-source infrastructure.
 
 ---
 
@@ -56,17 +58,44 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)
 
+## 🚀 Engineering Interests
 
+- Distributed Systems
+- Event-Driven Architecture
+- Microservices
+- RabbitMQ & Redis Streams
+- AI Agents & LLM Integrations
+- Backend Architecture
+- System Design
+- Performance Optimization
+- Clean Architecture
+- DevOps & CI/CD
 ---
 
+## 🤖 AI Engineering
+
+- Claude Code
+- Cursor
+- OpenAI APIs
+- Anthropic APIs
+- MCP Servers
+- AI Agents
+- Prompt Engineering
+- Context Engineering
+- Playwright Automation
+- RAG Fundamentals
+  
 ## 📌 Featured Projects
 
-| Project | Key Technologies | Impact / Role |
+| Project | Technologies | Highlights |
 | :--- | :--- | :--- |
-| **[WordRizz](https://wordrizz.netlify.app)** | React Native, React, Tailwind-CSS, FastAPI | Developing an end-to-end vocabulary learning app with a focus on UX and retention. |
-| **[LeadsVerifier](https://leadsverifier.com)** | Python, React, FastAPI | Built a high-concurrency bulk email validation system capable of processing thousands of requests. |
-| **[BitSic Agency](https://bitsic.online)** | Next.js, Framer Motion, Three.js | Software agency providing custom-built solutions for global clients. |
-| **[Naval Academy](https://naval-academy.vercel.app/)** | React, Tailwind-CSS, React/Tanstack Query | Architected the official platform for the Bangladesh Naval Academy for high traffic and reliability. |
+| **🏦 Litigation Management System** | ASP.NET Core, React, PostgreSQL, Redis | Enterprise banking platform built with Clean Architecture, CQRS, DDD, RBAC, Hangfire, distributed caching and dynamic approval workflows. |
+| **🤖 WordRizz** | React Native, Next.js, FastAPI, PostgreSQL, OpenAI | AI-powered vocabulary learning platform using spaced repetition, LLM-generated mnemonics and personalized learning. |
+| **⚙️ Buraq Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue supporting retries, worker pools, DLQs, idempotency, priority queues, metrics and monitoring dashboard. |
+| **🐍 Django Boilerplate** | Django, DRF, PostgreSQL, Docker | Production-ready Django starter with Clean Architecture, JWT auth, CI/CD, testing and Docker support. |
+| **💡 InsightPilot** | FastAPI, React, PostgreSQL, Stripe, OpenAI | AI-powered startup validation platform featuring LLM analysis, secure authentication and subscription billing. |
+| **🏫 Education Management System** | React, Express.js, PostgreSQL | Multi-tenant school management system serving thousands of users with dashboards, RBAC and reporting. |
+
 
 ---
 
