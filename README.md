@@ -8,7 +8,7 @@
 - 🛠 Senior Full Stack Engineer with **6+ years** of experience building SaaS and enterprise applications.
 - 🤖 AI-native dev using **Claude Code** and modern coding agents to accelerate development while maintaining production quality.
 - 🏗 Passionate about **Distributed Systems, Backend Architecture, Message Queues, and Microservices**.
-- 📱 Build products across **Web, Mobile, and AI** using React, Next.js, Django, FastAPI, Node.js, and Go.
+- 📱 Build products across **Web, Mobile, and AI** using React, React Native, Django, FastAPI, Node.js, and Go.
 - 🚀 Currently building AI-powered products, developer tools, and open-source infrastructure.
 
 ---
