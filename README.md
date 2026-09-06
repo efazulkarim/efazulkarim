@@ -58,25 +58,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)
 
-<h1 align="center">Kazi Efazul Karim</h1>
-<p align="center">
-  <b>Senior Full-Stack Engineer</b> · SaaS, enterprise platforms, and AI-powered products
-</p>
 
-<p align="center">
-  <a href="https://www.efazulkarim.me">Website</a> ·
-  <a href="https://www.linkedin.com/in/kazi-efazul-karim-046964202/">LinkedIn</a> ·
-  <a href="mailto:efaz@efazulkarim.me">Email</a> ·
-  <a href="https://twitter.com/EfazulFayad17">Twitter</a>
-</p>
-
----
-
-I've spent 6+ years building things people actually run in production — a litigation platform for a bank with ~124 branches, a school system serving 3,000+ users, and now my own SaaS. Mostly TypeScript, C#, and Python. I care about clean architecture, message queues, and shipping fast without leaving a mess behind.
-
-Currently building **[Kiln](https://kiln.zelvante.com/)**, a GTM data-enrichment platform, and using coding agents (Claude Code, Cursor) as a core part of how I work.
-
----
 
 ## Building Now
 
@@ -102,15 +84,14 @@ Cycle, fertility, and pregnancy tracking with PCOS-aware predictions and a RAG a
 | :--- | :--- | :--- |
 | **🏦 Litigation Management System** | ASP.NET Core 9, React, PostgreSQL, Redis | Bank-wide case platform across ~124 branches. Clean Architecture + CQRS/MediatR + DDD, branch-scoped RBAC over 7 roles, LDAP SSO and TOTP MFA, maker-checker approval workflows, and a Hangfire notification engine firing 5,000+ alerts/day. |
 | **🏫 Education Management System** | React, Express.js, PostgreSQL, Zustand | Multi-tenant school platform across 6 schools and 3,000+ users. 250+ documented REST APIs with JWT RBAC, plus exams, fees, payroll, SMS and CMS modules. |
-| **💡 InsightPilot** | FastAPI, React, PostgreSQL, Stripe, OpenAI | AI startup-validation platform. Stripe billing with prorated plan changes and webhook lifecycle handling; LLM-driven strategic analysis and PDF reports. |
 | **📧 Email Validation System** | Next.js, TypeScript, Tailwind, Python | Bulk email verification with an admin dashboard built on Zustand + React Query. Cuts bounce rates for marketing senders. |
 
 ### Products & open source
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
-| **⚙️ Buraq Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue with retries, worker pools, DLQs, idempotency, priority queues and a monitoring dashboard. |
-| **🤖 WordRizz** | React Native, Next.js, FastAPI, OpenAI | Vocabulary learning app using spaced repetition and LLM-generated mnemonics. |
+| **⚙️ Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue with retries, worker pools, DLQs, idempotency, priority queues and a monitoring dashboard. |
+| **🤖 ** | React Native, Next.js, FastAPI, OpenAI | Vocabulary learning app using spaced repetition and LLM-generated mnemonics. |
 | **🐍 Django Boilerplate** | Django, DRF, PostgreSQL, Docker | Production-ready starter: Clean Architecture, JWT auth, CI/CD, tests, Docker. |
 
 ### Client work
