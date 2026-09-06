@@ -5,10 +5,10 @@
 
 ## 💡 About Me
 
-- 🛠 Senior Full Stack Engineer with **5+ years** of experience building SaaS and enterprise applications.
+- 🛠 Senior Full Stack Engineer with **6+ years** of experience building SaaS and enterprise applications.
 - 🤖 AI-native dev using **Claude Code** and modern coding agents to accelerate development while maintaining production quality.
 - 🏗 Passionate about **Distributed Systems, Backend Architecture, Message Queues, and Microservices**.
-- 📱 Build products across **Web, Mobile, and AI** using React, React Native, Django, FastAPI, Node.js, and Go.
+- 📱 Build products across **Web, Mobile, and AI** using React, React Native(Expo), Django, FastAPI, Node.js, and Go.
 - 🚀 Currently building AI-powered products, developer tools, and open-source infrastructure.
 
 ---
@@ -58,48 +58,73 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)
 
-## 🚀 Engineering Interests
+<h1 align="center">Kazi Efazul Karim</h1>
+<p align="center">
+  <b>Senior Full-Stack Engineer</b> · SaaS, enterprise platforms, and AI-powered products
+</p>
 
-- Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- RabbitMQ & Redis Streams
-- AI Agents & LLM Integrations
-- Backend Architecture
-- System Design
-- Performance Optimization
-- Clean Architecture
-- DevOps & CI/CD
+<p align="center">
+  <a href="https://www.efazulkarim.me">Website</a> ·
+  <a href="https://www.linkedin.com/in/kazi-efazul-karim-046964202/">LinkedIn</a> ·
+  <a href="mailto:efaz@efazulkarim.me">Email</a> ·
+  <a href="https://twitter.com/EfazulFayad17">Twitter</a>
+</p>
+
 ---
 
-## 🤖 AI Engineering
+I've spent 6+ years building things people actually run in production — a litigation platform for a bank with ~124 branches, a school system serving 3,000+ users, and now my own SaaS. Mostly TypeScript, C#, and Python. I care about clean architecture, message queues, and shipping fast without leaving a mess behind.
 
-- Claude Code
-- Cursor
-- OpenAI APIs
-- Anthropic APIs
-- MCP Servers
-- AI Agents
-- Prompt Engineering
-- Context Engineering
-- Playwright Automation
-- RAG Fundamentals
-  
-## 📌 Featured Projects
+Currently building **[Kiln](https://kiln.zelvante.com/)**, a GTM data-enrichment platform, and using coding agents (Claude Code, Cursor) as a core part of how I work.
 
-| Project | Technologies | Highlights |
+---
+
+## Building Now
+
+### 🔥 Kiln — GTM data enrichment for RevOps teams
+**Next.js 16 · React 19 · TypeScript · Prisma · Redis · Socket.io**
+
+Multi-tenant B2B SaaS that chains 12 enrichment providers into a single waterfall. The differentiator is estimate-before-run: you see projected credit spend and match rate *before* a job executes, with server-side hard spend caps so a bad run can't drain a budget. Also does AI research agents with schema-validated output, scheduled runs triggered off webhooks and field changes, and native HubSpot / Salesforce sync.
+
+**[kiln.zelvante.com](https://kiln.zelvante.com/)** — 14-day trial, no card.
+
+### 🩺 Reproductive health companion *(in development)*
+**Django · PostgreSQL + pgvector · Expo · RAG**
+
+Cycle, fertility, and pregnancy tracking with PCOS-aware predictions and a RAG assistant grounded in WHO/ACOG guidelines. Bangla + English, offline-friendly, doctor-ready PDF exports.
+
+---
+
+## Featured Work
+
+### Enterprise platforms
+
+| Project | Stack | What it does |
 | :--- | :--- | :--- |
-| **🏦 Litigation Management System** | ASP.NET Core, React, PostgreSQL, Redis | Enterprise banking platform built with Clean Architecture, CQRS, DDD, RBAC, Hangfire, distributed caching and dynamic approval workflows. |
-| **🤖 WordRizz** | React Native, Next.js, FastAPI, PostgreSQL, OpenAI | AI-powered vocabulary learning platform using spaced repetition, LLM-generated mnemonics and personalized learning. |
-| **⚙️ Buraq Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue supporting retries, worker pools, DLQs, idempotency, priority queues, metrics and monitoring dashboard. |
-| **🐍 Django Boilerplate** | Django, DRF, PostgreSQL, Docker | Production-ready Django starter with Clean Architecture, JWT auth, CI/CD, testing and Docker support. |
-| **💡 InsightPilot** | FastAPI, React, PostgreSQL, Stripe, OpenAI | AI-powered startup validation platform featuring LLM analysis, secure authentication and subscription billing. |
-| **🏫 Education Management System** | React, Express.js, PostgreSQL | Multi-tenant school management system serving thousands of users with dashboards, RBAC and reporting. |
+| **🏦 Litigation Management System** | ASP.NET Core 9, React, PostgreSQL, Redis | Bank-wide case platform across ~124 branches. Clean Architecture + CQRS/MediatR + DDD, branch-scoped RBAC over 7 roles, LDAP SSO and TOTP MFA, maker-checker approval workflows, and a Hangfire notification engine firing 5,000+ alerts/day. |
+| **🏫 Education Management System** | React, Express.js, PostgreSQL, Zustand | Multi-tenant school platform across 6 schools and 3,000+ users. 250+ documented REST APIs with JWT RBAC, plus exams, fees, payroll, SMS and CMS modules. |
+| **💡 InsightPilot** | FastAPI, React, PostgreSQL, Stripe, OpenAI | AI startup-validation platform. Stripe billing with prorated plan changes and webhook lifecycle handling; LLM-driven strategic analysis and PDF reports. |
+| **📧 Email Validation System** | Next.js, TypeScript, Tailwind, Python | Bulk email verification with an admin dashboard built on Zustand + React Query. Cuts bounce rates for marketing senders. |
 
+### Products & open source
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| **⚙️ Buraq Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue with retries, worker pools, DLQs, idempotency, priority queues and a monitoring dashboard. |
+| **🤖 WordRizz** | React Native, Next.js, FastAPI, OpenAI | Vocabulary learning app using spaced repetition and LLM-generated mnemonics. |
+| **🐍 Django Boilerplate** | Django, DRF, PostgreSQL, Docker | Production-ready starter: Clean Architecture, JWT auth, CI/CD, tests, Docker. |
+
+### Client work
+
+Production sites shipped for Swiss businesses — construction, medical practice, and hospitality — built on Next.js with multilingual content and SEO as first-class concerns.
+
+- [viamalabau.netlify.app](https://viamalabau.netlify.app) — construction & infrastructure
+- [praxis-von-planta-1.vercel.app](https://praxis-von-planta-1.vercel.app) — medical practice
+- 
 
 ---
 
-## 📬 Connect With Me
-[![Instagram: efazul_fayad](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/efazul_fayad/)
-[![Twitter: EfazulFayad17](https://img.shields.io/twitter/follow/EfazulFayad17?style=social)](https://twitter.com/EfazulFayad17)
-[![LinkedIn: Kazi Efazul Karim](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazi-efazul-karim-046964202/)
+## Interests
+
+Distributed systems · event-driven architecture · backend performance · AI agents and LLM tooling · developer experience
+
+<p align="center"><i>Open to interesting problems — <a href="mailto:efaz@efazulkarim.me">say hello</a>.</i></p>
