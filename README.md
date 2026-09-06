@@ -98,9 +98,9 @@ Cycle, fertility, and pregnancy tracking with PCOS-aware predictions and a RAG a
 
 Production sites shipped for Swiss businesses — construction, medical practice, and hospitality — built on Next.js with multilingual content and SEO as first-class concerns.
 
-- [viamalabau.netlify.app](https://viamalabau.netlify.app) — construction & infrastructure
-- [praxis-von-planta-1.vercel.app](https://praxis-von-planta-1.vercel.app) — medical practice
-- 
+- [viamalabau.netlify.app](https://viamalabau.netlify.app) — Construction & infrastructure
+- [praxis-von-planta-1.vercel.app](https://praxisvonplanta.ch) — Medical practice
+- (https://lenzerheidebistro.ch) - Resturant Website
 
 ---
 
