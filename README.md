@@ -91,7 +91,7 @@ Cycle, fertility, and pregnancy tracking with PCOS-aware predictions and a RAG a
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
 | **⚙️ Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue with retries, worker pools, DLQs, idempotency, priority queues and a monitoring dashboard. |
-| **🤖 ** | React Native, Next.js, FastAPI, OpenAI | Vocabulary learning app using spaced repetition and LLM-generated mnemonics. |
+| **🤖 BandUp ** | React Native, Next.js, FastAPI, OpenAI | Vocabulary learning app using spaced repetition and LLM-generated mnemonics. |
 | **🐍 Django Boilerplate** | Django, DRF, PostgreSQL, Docker | Production-ready starter: Clean Architecture, JWT auth, CI/CD, tests, Docker. |
 
 ### Client work
