@@ -100,7 +100,7 @@ Production sites shipped for Swiss businesses — construction, medical practice
 
 - [viamalabau.ch](https://viamalabau.ch) — Construction & infrastructure
 - [http://praxisvonplanta.ch](https://praxisvonplanta.ch) — Medical practice
-- (https://lenzerheidebistro.ch) - Resturant Website
+- https://lenzerheidebistro.ch - Resturant Website
 
 ---
 
