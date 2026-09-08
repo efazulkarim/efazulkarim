@@ -78,7 +78,7 @@ Cycle, fertility, and pregnancy tracking with PCOS-aware predictions and a RAG a
 
 ## Featured Work
 
-### Enterprise platforms
+### Enterprise Platform Work
 
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
