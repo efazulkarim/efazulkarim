@@ -1,111 +1,96 @@
-<!-- Banner -->
-<h1 align="center"> Kazi Efazul Karim</h1>
-<h3 align="center">Senior Full-Stack Product Developer | Lead Software Engineer | SaaS & Mobile App Specialist </h3>
+<!-- Header -->
+<h1 align="center">Kazi Efazul Karim</h1>
+<h3 align="center">Senior Full-Stack & Systems Engineer | SaaS Product Architect</h3>
 
+<p align="center">
+  <b>Available for Remote Full-Time Engineering Roles & B2B/Freelance Contracts (EU / CH / UK Timezone-Aligned)</b><br/>
+  Specialized in Distributed Systems, High-Concurrency Backends, and Production-Grade Web/Mobile SaaS.
+</p>
 
-## 💡 About Me
+<p align="center">
+  <a href="mailto:efaz@efazulkarim.me"><img src="https://img.shields.io/badge/Email-efaz@efazulkarim.me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://efazulkarim.me"><img src="https://img.shields.io/badge/Portfolio-efazulkarim.me-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://img.shields.io/badge/Timezone-CET%20%2F%20CEST%20Overlap%20(4--6h)-blue?style=flat-square" alt="Timezone" />
+</p>
 
-- 🛠 Senior Full Stack Engineer with **6+ years** of experience building SaaS and enterprise applications.
-- 🤖 AI-native dev using **Claude Code** and modern coding agents to accelerate development while maintaining production quality.
-- 🏗 Passionate about **Distributed Systems, Backend Architecture, Message Queues, and Microservices**.
-- 📱 Build products across **Web, Mobile, and AI** using React, React Native(Expo), Django, FastAPI, Node.js, and Go.
-- 🚀 Currently building AI-powered products, developer tools, and open-source infrastructure.
+---
+
+## 💼 Why European Teams & Founders Work With Me
+
+- **Proven European Production Footprint:** Designed, built, and shipped live web platforms and commerce solutions for Swiss and EU clients across medical, hospitality, and construction sectors (handling multi-language SEO, ISO standards, and GDPR compliance).
+- **Domain Precision (Fintech & Commerce):** Deep experience modeling complex European fiscal requirements—including per-rate split VAT profiles (Switzerland, Germany, Spain), dual-currency rounding (CHF 5-Rappen, EUR 1-Cent), and payment infrastructure (Stripe, TWINT, Mollie, PayPal).
+- **Clean Architecture & Maintainability:** Strict practitioner of Domain-Driven Design (DDD), CQRS, event-driven message architectures, and Clean Code. Systems are built for zero vendor lock-in, automated testing, and predictable maintenance.
+- **Contractor & B2B Ready:** Experienced working asynchronously with remote European distributed teams. Available via direct B2B contractor invoicing or full-time remote contracts.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-
-### 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Material UI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-### ⚙️ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square\&logo=django\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![ASP.NET\_Core](https://img.shields.io/badge/.NET-512BD4?style=flat-square\&logo=dotnet\&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square\&logo=graphql\&logoColor=white)
-![REST\_API](https://img.shields.io/badge/REST_API-02569B?style=flat-square)
-
-### 🗄 Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
-![SQL\_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square)
-
-### ☁️ DevOps & Cloud
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)
-
-
-
-## Building Now
-
-### 🔥 Kiln — GTM data enrichment for RevOps teams
-**Next.js 16 · React 19 · TypeScript · Prisma · Redis · Socket.io**
-
-Multi-tenant B2B SaaS that chains 12 enrichment providers into a single waterfall. The differentiator is estimate-before-run: you see projected credit spend and match rate *before* a job executes, with server-side hard spend caps so a bad run can't drain a budget. Also does AI research agents with schema-validated output, scheduled runs triggered off webhooks and field changes, and native HubSpot / Salesforce sync.
-
-**[kiln.zelvante.com](https://kiln.zelvante.com/)** — 14-day trial, no card.
-
-### 🩺 Reproductive health companion *(in development)*
-**Django · PostgreSQL + pgvector · Expo · RAG**
-
-Cycle, fertility, and pregnancy tracking with PCOS-aware predictions and a RAG assistant grounded in WHO/ACOG guidelines. Bangla + English, offline-friendly, doctor-ready PDF exports.
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | Python, TypeScript, JavaScript, Go, PHP, C# (.NET) |
+| **Backend & APIs** | FastAPI, Django (DRF / Ninja), Node.js (Nest / Express), Laravel 12, ASP.NET Core 9, GraphQL, REST |
+| **Frontend & Mobile** | React, Next.js (App Router), Vue 3, React Native (Expo), TypeScript, TailwindCSS, Zustand |
+| **Distributed & Data** | PostgreSQL, MySQL, Redis (Streams / PubSub), MongoDB, pgvector, ChromaDB, Docker, Linux/VPS |
+| **DevOps & Infrastructure**| Docker, Docker Compose, Dokploy, GitHub Actions CI/CD, Cloudflare, S3/Off-site Encrypted Backups |
 
 ---
 
-## Featured Work
+## 🚀 Flagship Products & Production SaaS
 
-### Enterprise Platform Work
+### 🍽 [DineSpring](https://dinespring.ch) — Multi-Market Restaurant Operating System
+*Stack: Laravel 12 · Vue 3 · MySQL 8 · WebSockets (Reverb) · Docker · CloudPRNT*
 
-| Project | Stack | What it does |
-| :--- | :--- | :--- |
-| **🏦 Litigation Management System** | ASP.NET Core 9, React, PostgreSQL, Redis | Bank-wide case platform across ~124 branches. Clean Architecture + CQRS/MediatR + DDD, branch-scoped RBAC over 7 roles, LDAP SSO and TOTP MFA, maker-checker approval workflows, and a Hangfire notification engine firing 5,000+ alerts/day. |
-| **🏫 Education Management System** | React, Express.js, PostgreSQL, Zustand | Multi-tenant school platform across 6 schools and 3,000+ users. 250+ documented REST APIs with JWT RBAC, plus exams, fees, payroll, SMS and CMS modules. |
-| **📧 Email Validation System** | Next.js, TypeScript, Tailwind, Python | Bulk email verification with an admin dashboard built on Zustand + React Query. Cuts bounce rates for marketing senders. |
-
-### Products & open source
-
-| Project | Stack | What it does |
-| :--- | :--- | :--- |
-| **⚙️ Task Queue** | Go, Redis Streams, Prometheus | Distributed task queue with retries, worker pools, DLQs, idempotency, priority queues and a monitoring dashboard. |
-| 🤖 BandUp  | React Native, Next.js, FastAPI, OpenAI | Vocabulary learning app using spaced repetition and LLM-generated mnemonics. |
-| **🐍 Django Boilerplate** | Django, DRF, PostgreSQL, Docker | Production-ready starter: Clean Architecture, JWT auth, CI/CD, tests, Docker. |
-
-### Client work
-
-Production sites shipped for Swiss businesses — construction, medical practice, and hospitality — built on Next.js with multilingual content and SEO as first-class concerns.
-
-- [viamalabau.ch](https://viamalabau.ch) — Construction & infrastructure
-- [http://praxisvonplanta.ch](https://praxisvonplanta.ch) — Medical practice
-- https://lenzerheidebistro.ch - Resturant Website
+A production-grade, commission-free platform unifying storefront ordering, table QR ordering, real-time Kitchen Display Systems (KDS), and POS.
+- **Fiscal Compliance:** Engineered multi-tier server-side pricing and dynamic VAT extraction matching Swiss (CHF), German, and Spanish tax regulations.
+- **Hardware Integration:** Star CloudPRNT & Epson Server Direct Print integration—tickets and fiscal receipts pull automatically over HTTPS without local network print drivers.
+- **Real-Time Architecture:** Bi-directional order updates powered by WebSockets (Laravel Reverb) with failover polling, handling instant dispatch and acoustic kitchen alarms.
 
 ---
 
-## Interests
+### 🔥 [Kiln](https://kiln.zelvante.com) — B2B GTM Data Enrichment Engine
+*Stack: Next.js 16 · React 19 · TypeScript · Prisma · Redis · Socket.io*
 
-Distributed systems · event-driven architecture · backend performance · AI agents and LLM tooling · developer experience
+Multi-tenant revenue-operations SaaS chaining 12 third-party enrichment providers into an intelligent waterfall engine.
+- **Cost Defense Engine:** Implemented pre-execution credit projection and strict server-side hard spend caps to eliminate runaway API costs during batch jobs.
+- **Integrations & AI:** Schema-validated AI research agents connected directly with two-way CRM syncs (Salesforce, HubSpot) and webhook triggers.
 
-<p align="center"><i>Open to interesting problems — <a href="mailto:efaz@efazulkarim.me">say hello</a>.</i></p>
+---
+
+## 🏛 Enterprise Systems & Architectures
+
+| Project | Architecture & Stack | Core Engineering Highlights |
+| :--- | :--- | :--- |
+| **Litigation Platform** | ASP.NET Core 9, React, PostgreSQL, Redis | Enterprise legal operations platform serving 124+ bank branches. Built on CQRS/MediatR, DDD, branch-scoped 7-role RBAC, maker-checker authorization, and a 5,000+ alert/day Hangfire notification engine. |
+| **Distributed Task Queue** | Go, Redis Streams, Prometheus | Custom asynchronous task orchestrator featuring exponential backoff retries, dead-letter queues (DLQ), idempotency keys, worker pool scaling, and Prometheus instrumentation. |
+| **Education OS** | Express.js, React, PostgreSQL, Zustand | Multi-tenant educational management system serving 3,000+ daily active users across 6 institutions with 250+ documented REST endpoints and granular JWT RBAC. |
+| **Health Companion (In Dev)** | Django, Expo, PostgreSQL, pgvector | Multi-lingual (Bangla/English) offline-first health tracking engine utilizing RAG grounded in WHO/ACOG clinical guidelines with vector similarity search. |
+
+---
+
+## 🇨🇭 Client Deliverables in Europe
+
+Production websites engineered for Swiss businesses with sub-second response times, WCAG accessibility, and multilingual SEO:
+
+- **[viamalabau.ch](https://viamalabau.ch)** — Civil Engineering & Infrastructure (Graubünden, Switzerland)
+- **[praxisvonplanta.ch](https://praxisvonplanta.ch)** — Medical Practice & Healthcare Facility (Switzerland)
+- **[lenzerheidebistro.ch](https://lenzerheidebistro.ch)** — Alpine Restaurant & Hospitality
+- **[beautylounge-khatera.ch](https://beautylounge-khatera.ch)** — Commercial Wellness Studio
+
+---
+
+## 🤝 Engagement Models & Collaboration
+
+I work with European software companies, scale-ups, and agencies in two formats:
+
+1. **Full-Time Engineering Roles (Remote):** Senior Full-Stack Engineer / Backend Engineer / Systems Specialist.
+2. **B2B Contract & Retainer:** Fixed-scope product builds, technical architecture reviews, API integrations, and MVPs under direct invoicing.
+
+- **Available Hours:** 4–6 hours daily direct overlap with CET/CEST business hours.
+- **Communication:** Async-first via Slack/Linear/GitHub; clear documentation, transparent pull requests, and automated testing suites.
+
+<p align="center">
+  <b>Looking for a reliable technical partner or senior engineer for your team?</b><br/>
+  <a href="mailto:efaz@efazulkarim.me"><b>Schedule an exploratory conversation → efaz@efazulkarim.me</b></a>
+</p>
