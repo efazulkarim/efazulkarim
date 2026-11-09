@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Kazi Efazul Karim</h1>
-<h3 align="center">Senior Full-Stack & Systems Engineer | SaaS Product Architect</h3>
+<h3 align="center">Senior Full-Stack & Systems Engineer | Product Engineer</h3>
 
 <p align="center">
   <b>Available for Remote Full-Time Engineering Roles & B2B/Freelance Contracts (EU / CH / UK Timezone-Aligned)</b><br/>
