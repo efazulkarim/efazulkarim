@@ -29,7 +29,7 @@
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | Python, TypeScript, JavaScript, Go, PHP, C# (.NET) |
+| **Languages** | Python, TypeScript, JavaScript, Go, C# (.NET Core) |
 | **Backend & APIs** | FastAPI, Django (DRF / Ninja), Node.js (Nest / Express), Laravel 12, ASP.NET Core 9, GraphQL, REST |
 | **Frontend & Mobile** | React, Next.js (App Router), Vue 3, React Native (Expo), TypeScript, TailwindCSS, Zustand |
 | **Distributed & Data** | PostgreSQL, MySQL, Redis (Streams / PubSub), MongoDB, pgvector, ChromaDB, Docker, Linux/VPS |
