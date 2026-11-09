@@ -84,7 +84,7 @@ Production websites engineered for Swiss businesses with sub-second response tim
 
 I work with European software companies, scale-ups, and agencies in two formats:
 
-1. **Full-Time Engineering Roles (Remote):** Senior Full-Stack Engineer / Backend Engineer / Systems Specialist.
+1. **Full-Time Engineering Roles (Remote):** Senior Full-Stack Engineer / Product Engineer / Backend Engineer / Systems Specialist.
 2. **B2B Contract & Retainer:** Fixed-scope product builds, technical architecture reviews, API integrations, and MVPs under direct invoicing.
 
 - **Available Hours:** 4–6 hours daily direct overlap with CET/CEST business hours.
