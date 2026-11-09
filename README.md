@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="mailto:efaz@efazulkarim.me"><img src="https://img.shields.io/badge/Email-efaz@efazulkarim.me-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/kazi-efazul-karim"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://efazulkarim.me"><img src="https://img.shields.io/badge/Portfolio-efazulkarim.me-000000?style=flat-square&logo=aboutdotme&logoColor=white" alt="Portfolio" /></a>
   <img src="https://img.shields.io/badge/Timezone-CET%20%2F%20CEST%20Overlap%20(4--6h)-blue?style=flat-square" alt="Timezone" />
 </p>
