@@ -78,6 +78,7 @@ Production websites engineered for Swiss businesses with sub-second response tim
 - **[lenzerheidebistro.ch](https://lenzerheidebistro.ch)** — Alpine Restaurant & Hospitality
 - **[beautylounge-khatera.ch](https://beautylounge-khatera.ch)** — Commercial Wellness Studio
 
+
 ---
 
 ## 🤝 Engagement Models & Collaboration
